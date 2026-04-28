@@ -1,6 +1,5 @@
-# About Me:
-Software Engineer | Unity & Godot<br><br>Author of Genetica:Extinction strategy game.<br><br>Feel free to reach out if you're interested in working on something cool!
-
+# 👾 About Me:
+Software Engineer | Unity & Godot<br><br>A passionate software engineer with more than 7 years of experience in game development, system design, and software architecture. Solo developer of the project Genetica: Extinction.<br><br>Feel free to reach out if you're interested in working on something cool!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danylokondrat) 
