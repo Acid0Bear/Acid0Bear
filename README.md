@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎮 Game Developer | Unity & Godot<br><br>I'm currently working on an exciting secret project in Godot, blending creativity and code to bring unique experiences to life. I’m always open to collaborating with artists and other creative minds 🎨. Let’s create something amazing together!<br><br>🔍 Exploring the world of game design, interactive maps, and visual storytelling.<br><br>Feel free to reach out if you're interested in working on something cool!
+# About Me:
+Software Engineer | Unity & Godot<br><br>Author of Genetica:Extinction strategy game.<br><br>Feel free to reach out if you're interested in working on something cool!
 
 
 ## 🌐 Socials:
